@@ -119,6 +119,7 @@ button:hover{
     html{
         background: white;
         background: linear-gradient(135deg,    hsl(0, 0%, 100%) 10%,hsl(0, 100%, 98%) 97%);
+        height: 100vh;
     }
 
     
